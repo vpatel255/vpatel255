@@ -1,1 +1,10 @@
-python3: can't open file '/home/vpatel255/ops445/lab5/./CheckLab4.py': [Errno 2] No such file or directory
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: vpatel255
+    Linux system name: VilasPatel
+    Python executable: /usr/bin/python3
+    Python version: 31012
+    OS Platform: linux
+    Working Directory: /home/vpatel255/ops445/lab5
+    Start at: Sat Jul 13 22:38:28 2024
+=================================================================
